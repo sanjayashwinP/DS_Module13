@@ -1,5 +1,5 @@
 # EX 1 Display operator precedence in the infix expression.
-## DATE: 
+## DATE: 20/02/2025
 ## AIM:
 To write a C program to find and display the priority of the operator in the given Postfix expression
 
@@ -14,8 +14,8 @@ To write a C program to find and display the priority of the operator in the giv
 ```
 /*
 Program to find and display the priority of the operator in the given Postfix expression
-Developed by: Cynthia Mehul 
-RegisterNumber: 212223240020
+Developed by: SANJAY ASHWIN P
+RegisterNumber: 212223040181
 */
 
 #include <stdio.h>
